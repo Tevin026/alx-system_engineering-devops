@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp -type d -empty
+find . -depth -empty -printf %f'\n'
