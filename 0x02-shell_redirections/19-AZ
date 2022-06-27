@@ -1,2 +1,2 @@
-#!/bin/bish
+#!/bin/bash
 tr A Z | tr c e
