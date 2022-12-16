@@ -1,1 +1,1 @@
-go
+public and private key
