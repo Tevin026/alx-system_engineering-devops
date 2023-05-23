@@ -5,11 +5,11 @@
 -   Weight: 1
 -   Project over - took place from 
 
-    May 2, 2022
+    May 8, 2023
 
      to 
 
-    May 6, 2022
+    May 23, 2023
 
      - you're done with 0% of tasks.
 -   An auto review will be launched at the deadline
